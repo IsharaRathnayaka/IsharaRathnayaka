@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Ishara Rathnayaka</h1>
-<h2>A **Management Information Systems** Undergraduate at **NSBM Green University** 🌱</h2>
+<h2>A **Management Information Systems** Undergraduate at <b>NSBM Green University</b> 🌱</h2>
 
 
 <h3 align="left">I’m Skilled in</h3>
