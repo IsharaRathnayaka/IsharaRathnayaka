@@ -1,4 +1,4 @@
-###Hi 👋, I'm Ishara Rathnayaka
+<h1>Hi 👋, I'm Ishara Rathnayaka</h1>
 <h2>A **Management Information Systems** Undergraduate at **NSBM Green University** 🌱</h2>
 
 
